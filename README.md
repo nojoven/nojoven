@@ -1,4 +1,4 @@
-[Nojoven's GitHub stats](https://github-readme-stats.vercel.app/api?username=nojoven&show_icons=true)
+[![Nojoven's GitHub stats](https://github-readme-stats.vercel.app/api?username=nojoven&show_icons=true&theme=radical)](https://github.com/nojoven/github-readme-stats)
 - 👋 Hi, I’m @nojoven
 - 👀 I’m interested in backend development!
 <!---
